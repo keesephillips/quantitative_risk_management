@@ -1,4 +1,4 @@
-# Project 1
+# Project 2
 
 ## Project Files
 - [Project Report](./Project02.pdf)
