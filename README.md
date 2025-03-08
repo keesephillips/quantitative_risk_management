@@ -6,3 +6,6 @@ Attribution:
 
 ## Project 1
 > For information regarding the project please see the [Project 1](./Project01/README.md)
+
+## Project 2
+> For information regarding the project please see the [Project 2](./Project02/README.md)
