@@ -9,3 +9,6 @@ Attribution:
 
 ## Project 2
 > For information regarding the project please see the [Project 2](./Project02/README.md)
+
+## Extra Credit
+> For information regarding the project please see the [Extra Credit](./Extra_Credit/README.md)
