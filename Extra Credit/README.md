@@ -1,4 +1,4 @@
-# Project 2
+# Extra Credit
 
 ## Project Files
 - [Project Report](./Extra_Credit.pdf)
