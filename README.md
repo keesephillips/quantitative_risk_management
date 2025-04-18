@@ -12,3 +12,6 @@ Attribution:
 
 ## Extra Credit
 > For information regarding the project please see the [Extra Credit](./Extra_Credit/README.md)
+
+## Final Project
+> For information regarding the project please see the [Final Project](./Final_Project/README.md)
